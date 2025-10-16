@@ -20,7 +20,7 @@ In addition to the Classic Wordle that everyone knows from the New York Times, I
 
 ## ✅ Improvements To The Base Game
 
--Added optional Hint Button that gives you a random letter you don't already have (If you don't want the help, you don't need to use it)
--All mystery words are guaranteed to be commonly used English words that everyone knows about (Preventing obscure words from being the answer)
--Removed profanity from the game (The original Wordle allows you to input profanity/swear words)
--You cannot re-enter words that you have already entered (So you can't submit the same word multiple times, which is pointless anyways)
+- Added optional Hint Button that gives you a random letter you don't already have (If you don't want the help, you don't need to use it)
+- All mystery words are guaranteed to be commonly used English words that everyone knows about (Preventing obscure words from being the answer)
+- Removed profanity from the game (The original Wordle allows you to input profanity/swear words)
+- You cannot re-enter words that you have already entered (So you can't submit the same word multiple times, which is pointless anyways)
